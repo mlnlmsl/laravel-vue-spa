@@ -1,6 +1,10 @@
 <style scoped>
 </style>
-<template></template>
+<template>
+  <div>
+    <h4>footer</h4>
+  </div>
+</template>
 <script>
 export default {};
 </script>
